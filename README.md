@@ -2,7 +2,7 @@
 
 <h1 align="center" style="font-family: 'Courier New', Courier, monospace;">I am</h1>
 <img src="GIF/GitHub.gif">
-<h3 align="center" style="font-family: 'Courier New', Courier, monospace;">A Game developer driven by curiosity and creativity.<br>I love turning ideas into meaningful projects and learning something new every day.<br>Coding isn’t just my skill — it’s my canvas for innovation.</h3>
+<h3 align="center" style="font-family: 'Courier New', Courier, monospace;">A developer focused on both mobile and game development. I build modern Android applications using Kotlin and Jetpack Compose, and I create interactive experiences in Unreal Engine using both Blueprints and C++.</h3>
 
 <div align="center">
 

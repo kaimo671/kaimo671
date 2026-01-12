@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Courier+New:wght@400&family=Times+New+Roman:wght@400&display=swap" rel="stylesheet">
 
 <h1 align="center" style="font-family: 'Courier New', Courier, monospace;">I am</h1>
-<img src="GIF/GitHub.gif">
+<img src="Image/Ryvok.jpg">
 <h3 align="center" style="font-family: 'Courier New', Courier, monospace;">A developer focused on both mobile and game development. I build modern Android applications using Kotlin and Jetpack Compose, and I create interactive experiences in Unreal Engine using both Blueprints and C++.</h3>
 
 <div align="center">

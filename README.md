@@ -50,7 +50,7 @@
 <div align="center">
 
 ### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=moonlitveil&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Ryvok671&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=moonlitveil&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ryvok671&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -68,7 +68,7 @@
 <h1 align="center" style="font-family: 'Courier New', Courier, monospace;">Snake Game</h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moonlitveil/moonlitveil/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moonlitveil/moonlitveil/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/moonlitveil/moonlitveil/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryvok671/Ryvok671/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryvok671/Ryvok671/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ryvok671/Ryvok671/output/github-snake.svg" />
 </picture>

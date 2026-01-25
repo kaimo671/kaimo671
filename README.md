@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2B5D4,50:CDB4DB,100:A2D2FF&height=280&section=header&text=Ryvok&fontSize=80&desc=Android%20App%20Developer%20%7C%20Game%20Dev%20Enthusiast&descSize=22&fontColor=FFF8F0&fontAlignY=38&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Ryvok&fontSize=80&desc=Android%20App%20Developer%20%7C%20Game%20Dev%20Enthusiast&descSize=22&fontColor=8B949E&fontAlignY=38&animation=fadeIn&color=0:0D1117,50:1F2937,100:0D1117" width="100%" />
 
 <br/>
 
 <a href="https://github.com/Ryvok671">
-  <img src="https://img.shields.io/github/followers/Ryvok671?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/followers/Ryvok671?label=Followers&style=social&color=58A6FF" />
 </a>
 <a href="https://github.com/Ryvok671">
-  <img src="https://img.shields.io/github/stars/Ryvok671?style=social" />
+  <img src="https://img.shields.io/github/stars/Ryvok671?style=social&color=C9A7EB" />
 </a>
 
 </div>
 
 ---
 
-## 🌸 About Me
+## 👋 About Me
 
-Hi! I’m **Ryvok** 👋  
-I’m an **Android Application Developer** with a strong passion for **Jetpack Compose** and modern UI development.  
-I also explore **Game Development** to expand my creativity and technical depth.
+Hi, I’m **Ryvok** 👨‍💻  
+An **Android Application Developer** focused on building **modern, scalable, and clean UIs** using **Jetpack Compose**.  
+I also enjoy **Game Development** to strengthen my logic, creativity, and performance-driven coding skills.
 
-- 📱 Focused on **Android development with Jetpack Compose**
+- 📱 Android development with **Jetpack Compose**
 - 🎮 Game Dev enthusiast using **Unreal Engine**
-- 🧠 Love clean UI, smooth animations & scalable code
+- 🧩 Clean architecture & UI-first mindset
 - 🚀 Always learning and improving
 
 ---
@@ -34,43 +34,43 @@ I also explore **Game Development** to expand my creativity and technical depth.
 
 <table>
 <tr>
-<td align="center"><b>Mobile Development</b></td>
-<td align="center"><b>Game Development</b></td>
-<td align="center"><b>Languages</b></td>
-<td align="center"><b>Tools & Others</b></td>
+<td align="center"><b style="color:#58A6FF">Mobile Development</b></td>
+<td align="center"><b style="color:#C9A7EB">Game Development</b></td>
+<td align="center"><b style="color:#58A6FF">Languages</b></td>
+<td align="center"><b style="color:#3FB950">Tools & Others</b></td>
 </tr>
 
 <tr>
 <td align="center">
 
-<img src="https://img.shields.io/badge/Android-F2B5D4?style=for-the-badge&logo=android&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Jetpack%20Compose-F2B5D4?style=for-the-badge&logo=android&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Material%20Design-F2B5D4?style=for-the-badge&logo=materialdesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-58A6FF?style=for-the-badge&logo=android&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-58A6FF?style=for-the-badge&logo=android&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Material%20Design-58A6FF?style=for-the-badge&logo=materialdesign&logoColor=white"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/Unreal%20Engine-CDB4DB?style=for-the-badge&logo=unrealengine&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Blueprints-CDB4DB?style=for-the-badge&logo=unrealengine&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Game%20Physics-CDB4DB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unreal%20Engine-C9A7EB?style=for-the-badge&logo=unrealengine&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Blueprints-C9A7EB?style=for-the-badge&logo=unrealengine&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Game%20Physics-C9A7EB?style=for-the-badge"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/Kotlin-A2D2FF?style=for-the-badge&logo=kotlin&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/C++-A2D2FF?style=for-the-badge&logo=cplusplus&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Python-A2D2FF?style=for-the-badge&logo=python&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Java-A2D2FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-58A6FF?style=for-the-badge&logo=kotlin&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/C++-58A6FF?style=for-the-badge&logo=cplusplus&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Python-58A6FF?style=for-the-badge&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Java-58A6FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/Git-FFD6A5?style=for-the-badge&logo=git&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Notion-FFD6A5?style=for-the-badge&logo=notion&logoColor=black"/><br/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-FFD6A5?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-3FB950?style=for-the-badge&logo=git&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Notion-3FB950?style=for-the-badge&logo=notion&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-3FB950?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 </td>
 </tr>
@@ -84,9 +84,9 @@ I also explore **Game Development** to expand my creativity and technical depth.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ryvok671&show_icons=true&bg_color=FFF8F0&title_color=CDB4DB&text_color=5c5c5c&icon_color=A2D2FF&border_color=F2B5D4" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ryvok671&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=3FB950&border_color=30363D" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryvok671&layout=compact&bg_color=FFF8F0&title_color=CDB4DB&text_color=5c5c5c&border_color=F2B5D4" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryvok671&layout=compact&bg_color=0D1117&title_color=C9A7EB&text_color=8B949E&border_color=30363D" height="180"/>
 
 </div>
 
@@ -94,7 +94,7 @@ I also explore **Game Development** to expand my creativity and technical depth.
 
 <div align="center">
 
-🌷 *Thanks for visiting my GitHub profile!*  
-✨ *Let’s build beautiful apps together.*
+💙 *Thanks for visiting my profile*  
+🌱 *Building clean Android apps, one Compose UI at a time.*
 
 </div>

@@ -15,9 +15,7 @@
 
 ---
 
-## 👋 About Me
-
-Hi, I’m **Ryvok** 👨‍💻  
+## 👨‍💻 I am **Ryvok**   
 An **Android Application Developer** focused on building **modern, scalable, and clean UIs** using **Jetpack Compose**.  
 I also enjoy **Game Development** to strengthen my logic, creativity, and performance-driven coding skills.
 

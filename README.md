@@ -85,6 +85,9 @@ I also enjoy **Game Development** to strengthen my logic, creativity, and perfor
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaimo671&theme=dark&background=0D1117&ring=58A6FF&fire=C9A7EB&currStreakLabel=8B949E&sideNums=8B949E&currStreakNum=58A6FF&sideLabels=8B949E&dates=8B949E&border=30363D" height="180" alt="GitHub Streak"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaimo671&theme=react-dark&bg_color=121212&color=4DEEEA&line=B28DFF&point=69FFD2&area=true&hide_border=false&border_color=0F172A&radius=15" width="95%" alt="Contribution Graph"/>
+</div>
 ---
 
 ## 🐍 Snake Game

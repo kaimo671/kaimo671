@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 I am **Ryvok**   
+## 👨‍💻 I am **Kaimo**   
 An **Android Application Developer** focused on building **modern, scalable, and clean UIs** using **Jetpack Compose**.  
 I also enjoy **Game Development** to strengthen my logic, creativity, and performance-driven coding skills.
 

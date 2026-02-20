@@ -83,7 +83,10 @@ An **Android Application Developer** focused on building **modern, scalable, and
 <td align="center">
 
 <img src="https://img.shields.io/badge/Git-3FB950?style=for-the-badge&logo=git&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/GitHub-3FB950?style=for-the-badge&logo=github&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Notion-3FB950?style=for-the-badge&logo=notion&logoColor=black"/><br/>
+
+</td>
 
 </td>
 </tr>

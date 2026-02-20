@@ -104,15 +104,10 @@ An **Android Application Developer** focused on building **modern, scalable, and
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaimo671&theme=react-dark&bg_color=121212&color=4DEEEA&line=B28DFF&point=69FFD2&area=true&hide_border=false&border_color=0F172A&radius=15" width="95%" alt="Contribution Graph"/>
 </div>
-<<<<<<< HEAD
 
 <br/>
 
 # <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-> > > > > > > 5b1788d3ea7dc7c6cc219c0be7cf1cced8d479d4
 
 ## 🐍 Snake Game
 

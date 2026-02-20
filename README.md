@@ -4,13 +4,10 @@
 
 <br/>
 
-<!-- Typing Animation -->
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Modern+Android+Applications;Crafting+Immersive+Game+Experiences" alt="Typing SVG" /></a>
-
-<br/>
-
-<p align="center">
+<!-- Profile view -->
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=kaimo671&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -21,7 +18,12 @@
   <img src="https://img.shields.io/github/stars/kaimo671?style=social&color=C9A7EB" />
 </a>
 
-</div>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Modern+Android+Applications;Crafting+Immersive+Game+Experiences" alt="Typing SVG" />
+</a>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -83,10 +85,7 @@ An **Android Application Developer** focused on building **modern, scalable, and
 <td align="center">
 
 <img src="https://img.shields.io/badge/Git-3FB950?style=for-the-badge&logo=git&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/GitHub-3FB950?style=for-the-badge&logo=github&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Notion-3FB950?style=for-the-badge&logo=notion&logoColor=black"/><br/>
-
-</td>
 
 </td>
 </tr>

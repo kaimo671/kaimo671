@@ -82,9 +82,9 @@ I also enjoy **Game Development** to strengthen my logic, creativity, and perfor
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ryvok671&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=3FB950&border_color=30363D" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kaimo671&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=3FB950&border_color=30363D" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryvok671&layout=compact&bg_color=0D1117&title_color=C9A7EB&text_color=8B949E&border_color=30363D" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaimo671&layout=compact&bg_color=0D1117&title_color=C9A7EB&text_color=8B949E&border_color=30363D" height="180"/>
 
 </div>
 

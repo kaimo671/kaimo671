@@ -29,8 +29,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-An **Android Application Developer** focused on building **modern, scalable, and clean UIs** using **Jetpack Compose**.  
-I also enjoy **Game Development** to strengthen my logic, creativity, and performance-driven coding skills.
+An **Android Application Developer** focused on building **modern, scalable, and clean UIs** using **Jetpack Compose**. I also enjoy **Game Development** to strengthen my logic, creativity, and performance-driven coding skills.
 
 <br/>
 
@@ -109,10 +108,11 @@ I also enjoy **Game Development** to strengthen my logic, creativity, and perfor
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-=======
+# <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
->>>>>>> 5b1788d3ea7dc7c6cc219c0be7cf1cced8d479d4
+
+> > > > > > > 5b1788d3ea7dc7c6cc219c0be7cf1cced8d479d4
 
 ## 🐍 Snake Game
 

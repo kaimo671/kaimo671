@@ -15,7 +15,8 @@
 
 ---
 
-## 👨‍💻 I am **Kaimo**   
+## 👨‍💻 I am **Kaimo**
+
 An **Android Application Developer** focused on building **modern, scalable, and clean UIs** using **Jetpack Compose**.  
 I also enjoy **Game Development** to strengthen my logic, creativity, and performance-driven coding skills.
 
@@ -81,14 +82,11 @@ I also enjoy **Game Development** to strengthen my logic, creativity, and perfor
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kaimo671&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=3FB950&border_color=30363D" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaimo671&layout=compact&bg_color=0D1117&title_color=C9A7EB&text_color=8B949E&border_color=30363D" height="180"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaimo671&theme=dark&background=0D1117&ring=58A6FF&fire=C9A7EB&currStreakLabel=8B949E&sideNums=8B949E&currStreakNum=58A6FF&sideLabels=8B949E&dates=8B949E&border=30363D" height="180" alt="GitHub Streak"/>
 </div>
 
 ---
+
 ## 🐍 Snake Game
 
 <picture>

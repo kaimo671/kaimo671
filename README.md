@@ -25,7 +25,8 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Divider Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=50&color=gradient&customColorList=0,2,3,5,6" />
 
 ## 👨‍💻 I am **Kaimo**
 
@@ -42,7 +43,8 @@ An **Android Application Developer** focused on building **modern, scalable, and
 
 <br clear="both"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Divider Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&duration=5000&pause=500&color=8B949E&center=true&vCenter=true&repeat=true&width=1000&height=2&lines=____________________________________________________________________________________________________________" alt="Animated divider" />
 
 ## 🛠️ Tech Stack & Skills
 
@@ -95,7 +97,8 @@ An **Android Application Developer** focused on building **modern, scalable, and
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Divider Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&duration=5000&pause=500&color=8B949E&center=true&vCenter=true&repeat=true&width=1000&height=2&lines=____________________________________________________________________________________________________________" alt="Animated divider" />
 
 ## 📊 GitHub Stats
 
@@ -109,7 +112,8 @@ An **Android Application Developer** focused on building **modern, scalable, and
 
 <br/>
 
-# <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Divider Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&duration=5000&pause=500&color=8B949E&center=true&vCenter=true&repeat=true&width=1000&height=2&lines=____________________________________________________________________________________________________________" alt="Animated divider" />
 
 ## 🐍 Snake Game
 
@@ -120,8 +124,6 @@ An **Android Application Developer** focused on building **modern, scalable, and
     <img alt="github-snake" src="https://raw.githubusercontent.com/kaimo671/kaimo671/output/github-snake.svg" />
   </picture>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:1F2937,100:0D1117" width="100%"/>

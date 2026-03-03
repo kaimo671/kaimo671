@@ -1,9 +1,6 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Kaimo&fontSize=80&desc=Android%20App%20Developer%20%7C%20Game%20Dev%20Enthusiast&descSize=22&fontColor=8B949E&fontAlignY=38&animation=twinkling&color=0:0D1117,50:1F2937,100:0D1117" width="100%" />
-
 <br/>
-
 </div>
 
 <!-- Profile view -->
@@ -11,9 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=kaimo671&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
+<!-- GitHub followers -->
 <a href="https://github.com/kaimo671">
-  <img src="https://img.shields.io/github/followers/kaimo671?label=Followers&style=social&color=58A6FF" />
+  <img src="https://img.shields.io/github/followers/kaimo671?label=Followers&style=flat&color=58A6FF&logo=github" alt="GitHub Followers" />
 </a>
+
+<!-- GitHub Stars -->
 <a href="https://github.com/kaimo671">
   <img src="https://img.shields.io/github/stars/kaimo671?style=social&color=C9A7EB" />
 </a>
@@ -125,6 +125,7 @@ An **Android Application Developer** focused on building **modern, scalable, and
   </picture>
 </div>
 
+<!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:1F2937,100:0D1117" width="100%"/>
 </div>
